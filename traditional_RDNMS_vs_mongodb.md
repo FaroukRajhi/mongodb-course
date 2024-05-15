@@ -8,3 +8,5 @@ Index              Index
 Join               embedding, linking, $lookup
 view               standard view and on-demand materialized view
 Multi-record ACID transaction       Multi-document ACID transaction
+
+![image](./comparision.png)
